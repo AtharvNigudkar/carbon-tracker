@@ -4,7 +4,6 @@
 
 The Carbon Emission Analysis and Recommendation System is a full-stack web application designed to help users monitor, analyze, and reduce their carbon footprint based on daily activities. The system enables users to log activities such as travel, electricity usage, and waste generation, and converts them into estimated carbon emissions. It further provides analytical insights and personalized recommendations to encourage sustainable behavior.
 
----
 
 ## 2. Objectives
 
@@ -14,7 +13,6 @@ The Carbon Emission Analysis and Recommendation System is a full-stack web appli
 - To generate actionable recommendations for reducing carbon footprint
 - To promote environmentally responsible behavior
 
----
 
 ## 3. Features
 
@@ -57,7 +55,6 @@ The Carbon Emission Analysis and Recommendation System is a full-stack web appli
 - Includes educational videos on carbon footprint reduction
 - Displays general environmental tips
 
----
 
 ## 4. System Architecture
 
@@ -67,7 +64,6 @@ The application follows a client-server architecture:
 - Backend: Processes logic and handles API requests
 - Database: Stores user data and activity records
 
----
 
 ## 5. Technology Stack
 
@@ -86,6 +82,5 @@ The application follows a client-server architecture:
 ### Visualization
 - Plotly.js
 
----
 
 
